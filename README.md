@@ -8,7 +8,7 @@ This repository contains research and policy proposals focused on two critical a
 ## Project 1: AI Fairness in the Criminal Justice System
 
 ### Objective
-To analyze synthetic data from three counties—Copiah, Claiborne, and Warren—to determine if AI-based risk assessment tools exhibit bias when aiding judges in bail decisions.
+To analyze synthetic data from three counties - Copiah, Claiborne, and Warren - to determine if AI-based risk assessment tools exhibit bias when aiding judges in bail decisions.
 
 ### Key Findings
 * **Disparate Risk Scoring:** The AI algorithm assigned systematically higher risk scores to the Black population (average 5.86) compared to the White population (average 4.73), a difference of over a full point.
